@@ -3,9 +3,6 @@ import pandas as pd
 from openpyxl import load_workbook
 from tqdm import tqdm
 
-# def load_xlsx_dato(my_path):
-#     return pd.read_excel(my_path).fillna('N/A').to_dict('records')
-
 def load_data_from_excel(xlsx_fpath):
     wb = load_workbook(xlsx_fpath)
     xl_data = {}
@@ -66,3 +63,4 @@ topics   = pd.DataFrame(topics[1:], columns =topics[0])
 print(topics['projectID'].unique().shape[0])
 print(topics[topics['projectID'] == '871140']['topic'])
 
+###################################################################################################################
