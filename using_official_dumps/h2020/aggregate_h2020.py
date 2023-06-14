@@ -123,11 +123,11 @@ legal_data      = json.loads(str(archive.read('json/legalBasis.json').decode('ut
 euroscivoc_data = json.loads(str(archive.read('json/euroSciVoc.json').decode('utf-8')))
 weblink_data    = json.loads(str(archive.read('json/webLink.json').decode('utf-8')))
 
-org_data        = list2dict(org_data, 'projectID')
-topics_data     = list2dict(topics_data, 'projectID')
-legal_data      = list2dict(legal_data, 'projectID')
-euroscivoc_data = list2dict(euroscivoc_data, 'projectID')
-weblink_data    = list2dict(weblink_data, 'projectID')
+org_data        = list2dict(org_data,           'projectID')
+topics_data     = list2dict(topics_data,        'projectID')
+legal_data      = list2dict(legal_data,         'projectID')
+euroscivoc_data = list2dict(euroscivoc_data,    'projectID')
+weblink_data    = list2dict(weblink_data,       'projectID')
 
 ############################################################################################################
 
@@ -145,3 +145,5 @@ for project_datum in tqdm(project_data):
     exported_data.append(project_datum)
 
 json.dump(exported_data, open('h2020_project_metadata.json', 'w', encoding='utf-8'))
+
+############################################################################################################
