@@ -1,0 +1,13 @@
+https://cordis.europa.eu/data/cordis-h2020projectPublications-json.zip
+https://cordis.europa.eu/data/cordis-h2020projects-json.zip
+https://cordis.europa.eu/data/cordis-h2020reports-json.zip
+https://cordis.europa.eu/data/cordis-h2020projectDeliverables-json.zip
+https://cordis.europa.eu/data/cordis-h2020-erc-pi.xlsx
+https://cordis.europa.eu/data/projectIrps_h2020.xlsx
+https://cordis.europa.eu/data/reference/cordisref-H2020programmes-xlsx.zip
+https://cordis.europa.eu/data/reference/cordisref-h2020topicKeywords.xlsx
+https://cordis.europa.eu/data/reference/cordisref-H2020topics-xlsx.zip
+https://cordis.europa.eu/data/cordis-h2020projectPublications-xlsx.zip
+https://cordis.europa.eu/data/cordis-h2020projects-xlsx.zip
+https://cordis.europa.eu/data/cordis-h2020reports-xlsx.zip
+https://cordis.europa.eu/data/cordis-h2020projectDeliverables-xlsx.zip
