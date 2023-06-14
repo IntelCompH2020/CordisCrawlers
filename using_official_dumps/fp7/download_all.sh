@@ -6,4 +6,3 @@ unzip cordis-fp7projects-json.zip
 unzip cordis-fp7reports-json.zip
 unzip cordis-fp7projects-xlsx.zip
 unzip cordis-fp7reports-xlsx.zip
-
