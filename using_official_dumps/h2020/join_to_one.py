@@ -27,17 +27,17 @@ while(True):
     print(f3[0])
     f4 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/projectDeliverables.xlsx')['projectDeliverables']
     print(f4[0])
-    f5 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/projectPublications.xlsx')['']
+    f5 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/projectPublications.xlsx')['projectPublications']
     print(f5[0])
-    f6 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/project.xlsx')['']
+    f6 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/project.xlsx')['project']
     print(f6[0])
-    f7 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/reportSummaries.xlsx')['']
+    f7 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/reportSummaries.xlsx')['reportSummaries']
     print(f7[0])
-    f8 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/topics.xlsx')['']
+    f8 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/topics.xlsx')['topics']
     print(f8[0])
-    f9 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/webItem.xlsx')['']
+    f9 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/webItem.xlsx')['webItem']
     print(f9[0])
-    f10 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/webLink.xlsx')['']
+    f10 = load_data_from_excel('/media/disk1/dpappas_data/cordis_dumps/h2020/xlsx/webLink.xlsx')['webLink']
     print(f10[0])
     break
 
