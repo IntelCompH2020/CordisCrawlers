@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cat url_list.txt | parallel -j8 wget {}
+cat url_list.txt | parallel -j8 wget --show-progress {}
 
 unzip cordis-h2020projectPublications-json.zip
 unzip cordis-h2020projects-json.zip
