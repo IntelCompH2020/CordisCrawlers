@@ -1,0 +1,7 @@
+https://cordis.europa.eu/data/cordis-HORIZONprojects-json.zip
+https://cordis.europa.eu/data/cordis-HORIZONprojects-xlsx.zip
+https://cordis.europa.eu/data/cordis-HORIZONprojectDeliverables-json.zip
+https://cordis.europa.eu/data/cordis-HORIZONprojectDeliverables-xlsx.zip
+https://cordis.europa.eu/data/cordis-HORIZONreports-json.zip
+https://cordis.europa.eu/data/cordis-HORIZONreports-xlsx.zip
+https://cordis.europa.eu/data/cordis-HORIZONprojectPublications-xlsx.zip
