@@ -17,5 +17,5 @@ The script should get the "all_projids_data.json" file (extracted from 1st scrip
 
 This file traverses through all collected projects' data and uses the json API of CORDIS to collect all metadata about participants and coordinators of each project.
 
-
+![This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 101004870. H2020-SC6-GOVERNANCE-2018-2019-2020 / H2020-SC6-GOVERNANCE-2020](https://github.com/IntelCompH2020/.github/blob/main/profile/banner.png)
 
